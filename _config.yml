@@ -1,3 +1,4 @@
 markdown: redcarpet
 safe: false
 pygments: true
+baseurl: /jekyll_demo
